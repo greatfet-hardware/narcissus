@@ -1,4 +1,4 @@
-update=Sat 26 Jan 2019 12:31:13 PM MST
+update=Wed 07 Mar 2018 08:05:31 AM MST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../gsg-kicad-lib
+LibDir=gsg-kicad-lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -57,5 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=gsg-symbols
-[general]
+[schematic_editor]
 version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
