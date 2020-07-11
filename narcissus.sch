@@ -1277,15 +1277,15 @@ SSP0_SCK
 Text Notes 15650 4000 0    40   ~ 0
 SSP0_SCK
 Text Notes 14350 5400 2    40   ~ 0
-SSP0_SSEL
+SSP0_CS
 Text Label 5450 1150 0    40   ~ 0
 P1_0
 Text Notes 15650 3900 0    40   ~ 0
-SSP0_MOSI
+SSP0_COPI
 Text Label 9300 2600 2    40   ~ 0
 P3_7
 Text Notes 15650 4300 0    40   ~ 0
-SSP0_MISO
+SSP0_CIPO
 Text Label 9300 2200 2    40   ~ 0
 P3_6
 Text Notes 14350 5600 2    40   ~ 0
@@ -1293,11 +1293,11 @@ SSP1_SCK
 Text Notes 15700 6900 0    40   ~ 0
 SSP1_SCK
 Text Notes 15700 7000 0    40   ~ 0
-SSP1_MISO
+SSP1_CIPO
 Text Notes 14350 6900 2    40   ~ 0
-SSP1_SSEL
+SSP1_CS
 Text Notes 14350 7000 2    40   ~ 0
-SSP1_MOSI
+SSP1_COPI
 Text Label 15450 6300 2    40   ~ 0
 P1_13
 Text Label 14550 6300 0    40   ~ 0
